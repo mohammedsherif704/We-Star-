@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Migration of SalesDB3NF", "Migration of SalesDB3NF\Migration of SalesDB3NF.dtproj", "{5950E331-373E-4396-B10F-CBF6124D3F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5950E331-373E-4396-B10F-CBF6124D3F4B}.Azure|Default.ActiveCfg = Azure
+		{5950E331-373E-4396-B10F-CBF6124D3F4B}.Azure|Default.Build.0 = Azure
+		{5950E331-373E-4396-B10F-CBF6124D3F4B}.Development|Default.ActiveCfg = Development
+		{5950E331-373E-4396-B10F-CBF6124D3F4B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE752763-0FE9-48CC-B8F2-CE0A89556D20}
+	EndGlobalSection
+EndGlobal
