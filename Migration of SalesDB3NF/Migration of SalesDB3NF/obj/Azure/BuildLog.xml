@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Migration of SalesDB3NF</Name>
-    <LastWriteTime>2022-02-02T09:59:29.1570154Z</LastWriteTime>
+    <LastWriteTime>2022-02-12T15:54:46.3613951Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
-      <LastWriteTime>2022-02-02T21:23:35.3990191Z</LastWriteTime>
+      <Name>WE Task ETL.dtsx</Name>
+      <LastWriteTime>2022-02-22T08:48:50.6575107Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
