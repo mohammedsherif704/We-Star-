@@ -34,5 +34,17 @@ clean-targets:         # directories to be removed by `dbt clean`
 models:
   dwh:
     # Config indicated by + and applies to all files under models/example/
-    example:
+    dimensions:
+      +materialized: table
+      +schema: data_model
+    core:
+      +materialized: table
+      +schema: data_model
+    intermediate_models:
       +materialized: view
+      +schema: data_model
+    staging:
+      +materialized: view
+      +schema: data_model
+    
+

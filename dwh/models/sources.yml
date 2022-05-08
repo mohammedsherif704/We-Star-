@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: we_orders
+    tables:
+      - name: Category
+      - name: City
+      - name: Country
+      - name: Customers
+      - name: CustomerName
+      - name: Date
+      - name: Dim_Date
+      - name: Market
+      - name: Order_Piriority
+      - name: Product
+      - name: Orders
+      - name: PRODUCTS_OF_ORDERS
+      - name: Region
+      - name: Segment
+      - name: ShipMode
+      - name: State
+      - name: Sub_Category
